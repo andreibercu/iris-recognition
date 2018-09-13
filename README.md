@@ -1,4 +1,4 @@
-# Python Application for an Iris Recognition System using OpenCV
+# Python Script for an Iris Recognition System using OpenCV
 
 This Python application takes 2 infrared eye images as input and gives a matching score after comparing the 2 irises. If a matching score threshold is selected, it can decide if the images represent the same person.
 
